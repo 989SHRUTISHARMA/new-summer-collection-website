@@ -1,0 +1,1 @@
+ALTER USER 'root'@'localhost' INDENTIFIED BY 'Example@2024#';
